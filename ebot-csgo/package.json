@@ -1,0 +1,11 @@
+{
+  "name": "ebot-websocket",
+  "description": "eBot realtime websocket server",
+  "author": "Julien Parodns <destro@esport-tools.net>",
+  "dependencies": {
+    "formidable": "1.0.x",
+    "socket.io": "*",
+    "archiver": "0.4.x"
+  },
+  "engine": "node >= 0.8.x"
+}
